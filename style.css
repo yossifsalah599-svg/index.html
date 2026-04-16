@@ -1,9 +1,9 @@
 /* الألوان العامة */
 :root {
-    --main-color: #2c3e50;
-    --accent-color: #3498db;
-    --bg-color: #f4f7f6;
-    --text-color: #333;
+    --main-color: #34502c;
+    --accent-color: #34dbb1;
+    --bg-color: #a7f607;
+    --text-color: #333333;
     --white: #ffffff;
 }
 
@@ -29,7 +29,7 @@ header {
 }
 
 nav {
-    background: #34495e;
+    background: #345e37;
     display: flex;
     justify-content: center;
     padding: 0.5rem;
